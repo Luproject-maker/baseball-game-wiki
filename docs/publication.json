@@ -2,8 +2,8 @@
   "verifiedDate": "2026-11-15",
   "repository": "https://github.com/Luproject-maker/baseball-game-wiki",
   "website": "https://luproject-maker.github.io/baseball-game-wiki/",
-  "status": "live",
+  "status": "deploying_2025_2026_seasons",
   "deployedSourceCommit": "b24408e1d43fa354cad8f74ef3a5bafee4d9bbb9",
-  "verification": "公開網站已驗證精選球場主視覺、系列賽進度、球員亮點、逐局走勢及中文時間軸。線上滑桿Home顯示賽前0:0、End顯示第10局3:6，Freeman再見滿貫中文事件正常，Console error為空。1434項官方資料比對及兩組回歸檢查通過，作業說明為五頁。",
+  "verification": "閱讀體驗版已發布。本次追加2025七場與2026五場，共18場、四年度、七隊；本機4556項資料檢查及三組回歸檢查通過，待確認新增年度上線。",
   "handoff": "GitHub專案與網站由AI更新，課程平台作業由使用者自行繳交。"
 }

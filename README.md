@@ -5,10 +5,10 @@
 ## 網址與版本
 - Repository：https://github.com/Luproject-maker/baseball-game-wiki
 - 網站：https://luproject-maker.github.io/baseball-game-wiki/
-- 跨年度修訂版包含六場官方賽事，透過 GitHub Pages 部署。部署驗證紀錄見 docs/publication.json；課程平台作業由使用者自行提交。
+- 目前包含18場官方賽事，涵蓋2023至2026年，透過GitHub Pages部署。部署驗證紀錄見docs/publication.json；課程平台作業由使用者自行提交。
 
 ## 功能與範圍
-支援不同年度、系列賽、球隊的逐場紀錄。初始資料是 2024 世界大賽五場，以及 2023 世界大賽第五場，共六場官方比賽。2023 系列賽僅收錄一場，不代表完整系列賽。
+支援不同年度、系列賽、球隊的逐場紀錄。收錄2024世界大賽全部5場、2025全部7場、2026全部5場，以及2023世界大賽第五場，共18場。2023系列賽僅收錄一場，不代表完整系列賽。2025及2026官方賽程另存於sources/schedule-年度-world-series.json，供場次與比分核對。
 
 首頁與數據總覽共用年度、系列賽、球隊、勝敗、搜尋條件，全部條件取交集。勝敗以選取球隊為視角，未選球隊時停用。各球隊統計以自己的實際出賽場數計算。單場頁保留逐局比分、打者與投手成績、官方得分事件與來源。
 
@@ -30,9 +30,12 @@ python scripts/import_mlb.py --game-pk 官方編號 --season 2025 --series-id ml
 node scripts/validate.mjs
 node tests/archive.test.mjs
 node tests/experience.test.mjs
+node tests/seasons.test.mjs
 ```
 
 命令保存 sources/<gamePk>.json，核對官方年度與結束狀態，再追加 games.json。重複編號、同系列賽重複場次、名稱衝突會被拒絕。不帶參數只補入缺少的 2024 世界大賽五場，保留其他年度的既有資料。分類選項由資料自動產生，不用修改 HTML 或 app.js。完成後提交資料及快照，更新 GitHub 即可。
+
+若要按年度批次匯入世界大賽，可執行 `python scripts/import_world_series.py --years 2025 2026`。命令保存官方賽程與比賽快照，依官方seriesGameNumber追加已結束且尚未收錄的比賽，重複執行不會新增重複場次。
 
 AI 指令範例：「請閱讀 AGENTS.md，依官方 gamePk 新增一場 2025 世界大賽資料。確認 season、seriesId、seriesName 與 number，不覆蓋已有比賽。執行檢查，確認新分類自動出現且統計只涵蓋目前篩選範圍。」
 

@@ -21,7 +21,7 @@ export function teamStats(games){
  return [...map.values()].sort((a,b)=>b.wins-a.wins||a.code.localeCompare(b.code)).map(s=>({...s,winRate:s.games?(s.wins/s.games*100).toFixed(1)+'%':'—'}));
 }
 
-export const teamColor=code=>({LAD:'#2879d0',NYY:'#283c5b',TEX:'#bd3544',AZ:'#087f82',ARI:'#087f82'}[code]||'#527b65');
+export const teamColor=code=>({LAD:'#2879d0',NYY:'#283c5b',TEX:'#bd3544',AZ:'#087f82',ARI:'#087f82',TOR:'#245db6',MIL:'#896a27',TB:'#244b62',TBR:'#244b62'}[code]||'#527b65');
 export function scoreProgress(g){
  const n=Math.max(g.teams.away.innings.length,g.teams.home.innings.length),points=[{inning:0,away:0,home:0,homePlayed:true}];let away=0,home=0;
  for(let i=0;i<n;i++){away+=g.teams.away.innings[i]??0;home+=g.teams.home.innings[i]??0;points.push({inning:i+1,away,home,homePlayed:g.teams.home.innings[i]!==null&&g.teams.home.innings[i]!==undefined})}return points;

@@ -7,7 +7,7 @@ RAW = ROOT / 'sources'
 RAW.mkdir(exist_ok=True)
 (ROOT/'data').mkdir(exist_ok=True)
 IDS = [775300, 775294, 775298, 775297, 775296]
-NAMES = {'LAD':'洛杉磯道奇','NYY':'紐約洋基','TEX':'德州遊騎兵','AZ':'亞利桑那響尾蛇','ARI':'亞利桑那響尾蛇'}
+NAMES = {'LAD':'洛杉磯道奇','NYY':'紐約洋基','TEX':'德州遊騎兵','AZ':'亞利桑那響尾蛇','ARI':'亞利桑那響尾蛇','TOR':'多倫多藍鳥','MIL':'密爾瓦基釀酒人','TB':'坦帕灣光芒','TBR':'坦帕灣光芒'}
 def get(url, path):
     if path.exists(): return json.loads(path.read_text(encoding='utf-8'))
     with urllib.request.urlopen(url, timeout=45) as r: data=json.load(r)

@@ -1,7 +1,7 @@
 # 棒球逐場賽事紀錄站 開發規則
 
 ## 專案目的與讀者
-建立繁體中文棒球逐場數據網站，支援不同年度、系列賽與球隊。初始六場為 2024 世界大賽全部五場及 2023 世界大賽第五場；後者只收錄一場，不代表整個系列賽。網頁沒有直接新增表單，維護者透過匯入命令或 AI 更新資料。本文件是後續 AI 新增、修正資料與頁面的共同規範。
+建立繁體中文棒球逐場數據網站，支援不同年度、系列賽與球隊。目前收錄2023世界大賽第五場、2024世界大賽五場、2025世界大賽七場、2026世界大賽五場，共18場、四個年度；2023僅收錄一場。網頁沒有直接新增表單，維護者透過匯入命令或AI更新資料。本文件是後續AI新增、修正資料與頁面的共同規範。
 
 ## 技術與檔案結構
 - 原生 HTML、CSS、JavaScript 與 JSON；不依賴前端框架、付費 API、資料庫或建置流程。
@@ -11,6 +11,7 @@
 - assets/experience.js 與 experience.css 管理精選主視覺、SVG球場、互動得分走勢、中文時間軸、球員亮點及系列賽進度。SVG使用DOM建立，無外部圖片依賴。
 - data/games.json 是前端唯一資料來源；sources/ 保存 MLB 官方原始 JSON 快照。
 - scripts/import_mlb.py 匯入官方資料；scripts/validate.mjs 執行資料檢查；tests/ 保存擴充示範紀錄。
+- scripts/import_world_series.py --years 2025 2026 可批次追加世界大賽；保存官方賽程，使用官方 seriesGameNumber，不自行依日期猜場次，只收錄已結束賽事。無已結束資料時不得編造或悄悄略過。
 - docs/ 保存作業文件與驗證截圖，不放金鑰、登入資訊、個人敏感資料。
 - 全部資源採相對路徑，必須相容 GitHub Pages 專案子目錄。
 
@@ -70,6 +71,7 @@ games.json 最外層包含 title、scope、games。每場必填：
 4. 無需手寫卡片或統計；共用 renderer 應自動產生列表、內頁及統計。
 5. 執行 node scripts/validate.mjs、node tests/archive.test.mjs 及 node tests/experience.test.mjs，再用 HTTP 預覽驗證新分類、精選、圖表、時間軸、內頁與總覽。列表按日期由新到舊排序。
 6. 在 tests/extension-log.md 記錄真實的前後場次、統計變化、修改檔案與檢查結果。
+7. 新增年度時執行 node tests/seasons.test.mjs，核對官方賽程ID、場次、比分及每年度統計；舊年度回歸斷言必須限定其年度，不把舊資料總數當成全站不變規則。
 
 ## 修改頁面流程
 改動前確認相關路由及共用樣式。只調整需求範圍，不引入不必要套件。所有 JSON 文字用 textContent 或安全的 DOM 節點呈現，不以未轉義 innerHTML 插入；外部連結限制 https，另開分頁需 noopener。

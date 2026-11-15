@@ -2727,6 +2727,5828 @@
       "season": 2024,
       "seriesId": "mlb-2024-world-series",
       "seriesName": "2024 世界大賽"
+    },
+    {
+      "id": "mlb-813027",
+      "gamePk": 813027,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 1,
+      "date": "2025-10-24",
+      "venue": "Rogers Centre",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 4,
+          "hits": 6,
+          "errors": 0,
+          "innings": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 1
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andy Pages",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Blake Snell",
+              "inningsPitched": "5.0",
+              "hits": 8,
+              "runs": 5,
+              "earnedRuns": 5,
+              "baseOnBalls": 3,
+              "strikeOuts": 4,
+              "numberOfPitches": 100
+            },
+            {
+              "name": "Emmet Sheehan",
+              "inningsPitched": "0.1",
+              "hits": 2,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 16
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "0.2",
+              "hits": 3,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 12
+            },
+            {
+              "name": "Justin Wrobleski",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 14
+            },
+            {
+              "name": "Will Klein",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 14
+            }
+          ]
+        },
+        "home": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 11,
+          "hits": 14,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            9,
+            0,
+            0,
+            null
+          ],
+          "batters": [
+            {
+              "name": "George Springer",
+              "position": "DH",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Davis Schneider",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 2,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 4,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Isiah Kiner-Falefa",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 3,
+              "runs": 3,
+              "hits": 3,
+              "rbi": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 2,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Myles Straw",
+              "position": "RF",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nathan Lukes",
+              "position": "LF",
+              "atBats": 1,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Trey Yesavage",
+              "inningsPitched": "4.0",
+              "hits": 4,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 3,
+              "strikeOuts": 5,
+              "numberOfPitches": 80
+            },
+            {
+              "name": "Mason Fluharty",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 17
+            },
+            {
+              "name": "Seranthony Domínguez",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 13
+            },
+            {
+              "name": "Braydon Fisher",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 23
+            },
+            {
+              "name": "Chris Bassitt",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 21
+            },
+            {
+              "name": "Eric Lauer",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 17
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 2,
+          "half": "top",
+          "description": "Enrique Hernández singles on a sharp ground ball to center fielder Daulton Varsho. Teoscar Hernández scores. Max Muncy to 2nd.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Enrique Hernández",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Will Smith singles on a ground ball to right fielder Myles Straw. Mookie Betts scores. Freddie Freeman out at 3rd on the throw, right fielder Myles Straw to shortstop Andrés Giménez to third baseman Ernie Clement. Will Smith to 2nd.",
+          "awayScore": 2,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Will Smith",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "bottom",
+          "description": "Daulton Varsho homers (3) on a fly ball to center field. Alejandro Kirk scores.",
+          "awayScore": 2,
+          "homeScore": 2,
+          "eventType": "home_run",
+          "batter": "Daulton Varsho",
+          "rbi": 2
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Ernie Clement singles on a ground ball to center fielder Andy Pages. Isiah Kiner-Falefa scores. Alejandro Kirk to 3rd. Daulton Varsho to 2nd.",
+          "awayScore": 2,
+          "homeScore": 3,
+          "eventType": "single",
+          "batter": "Ernie Clement",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Nathan Lukes walks. Alejandro Kirk scores. Daulton Varsho to 3rd. Ernie Clement to 2nd.",
+          "awayScore": 2,
+          "homeScore": 4,
+          "eventType": "walk",
+          "batter": "Nathan Lukes",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Andrés Giménez singles on a sharp line drive to right fielder Teoscar Hernández. Daulton Varsho scores. Ernie Clement to 3rd. Nathan Lukes to 2nd.",
+          "awayScore": 2,
+          "homeScore": 5,
+          "eventType": "single",
+          "batter": "Andrés Giménez",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Addison Barger hits a grand slam (3) to center field. Nathan Lukes scores. Andrés Giménez scores. George Springer scores.",
+          "awayScore": 2,
+          "homeScore": 9,
+          "eventType": "home_run",
+          "batter": "Addison Barger",
+          "rbi": 4
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Alejandro Kirk homers (4) on a fly ball to center field. Vladimir Guerrero Jr. scores.",
+          "awayScore": 2,
+          "homeScore": 11,
+          "eventType": "home_run",
+          "batter": "Alejandro Kirk",
+          "rbi": 2
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Shohei Ohtani homers (6) on a fly ball to right field. Tommy Edman scores.",
+          "awayScore": 4,
+          "homeScore": 11,
+          "eventType": "home_run",
+          "batter": "Shohei Ohtani",
+          "rbi": 2
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813027/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813027/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "多倫多藍鳥以 11 比 4 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-813026",
+      "gamePk": 813026,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 2,
+      "date": "2025-10-25",
+      "venue": "Rogers Centre",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 5,
+          "hits": 6,
+          "errors": 0,
+          "innings": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            2,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 3,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 4,
+              "homeRuns": 0
+            },
+            {
+              "name": "Justin Dean",
+              "position": "CF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andy Pages",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Yoshinobu Yamamoto",
+              "inningsPitched": "9.0",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 8,
+              "numberOfPitches": 105
+            }
+          ]
+        },
+        "home": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 1,
+          "hits": 4,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "George Springer",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nathan Lukes",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Isiah Kiner-Falefa",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "2B",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Kevin Gausman",
+              "inningsPitched": "6.2",
+              "hits": 4,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 0,
+              "strikeOuts": 6,
+              "numberOfPitches": 82
+            },
+            {
+              "name": "Louis Varland",
+              "inningsPitched": "0.2",
+              "hits": 2,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 13
+            },
+            {
+              "name": "Jeff Hoffman",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Braydon Fisher",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 14
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Will Smith singles on a ground ball to center fielder Daulton Varsho. Freddie Freeman scores.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Will Smith",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Alejandro Kirk out on a sacrifice fly to center fielder Andy Pages. George Springer scores.",
+          "awayScore": 1,
+          "homeScore": 1,
+          "eventType": "sac_fly",
+          "batter": "Alejandro Kirk",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Will Smith homers (1) on a fly ball to left field.",
+          "awayScore": 2,
+          "homeScore": 1,
+          "eventType": "home_run",
+          "batter": "Will Smith",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Max Muncy homers (2) on a fly ball to left field.",
+          "awayScore": 3,
+          "homeScore": 1,
+          "eventType": "home_run",
+          "batter": "Max Muncy",
+          "rbi": 1
+        },
+        {
+          "inning": 8,
+          "half": "top",
+          "description": "Jeff Hoffman intentionally walks Freddie Freeman.",
+          "awayScore": 4,
+          "homeScore": 1,
+          "eventType": "intent_walk",
+          "batter": "Freddie Freeman",
+          "rbi": 0
+        },
+        {
+          "inning": 8,
+          "half": "top",
+          "description": "Will Smith grounds into a force out, shortstop Andrés Giménez to second baseman Bo Bichette. Shohei Ohtani scores. Mookie Betts to 3rd. Freddie Freeman out at 2nd. Will Smith to 1st.",
+          "awayScore": 5,
+          "homeScore": 1,
+          "eventType": "force_out",
+          "batter": "Will Smith",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813026/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813026/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 5 比 1 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-813032",
+      "gamePk": 813032,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 3,
+      "date": "2025-10-27",
+      "venue": "Dodger Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 5,
+          "hits": 15,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "George Springer",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ty France",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Davis Schneider",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nathan Lukes",
+              "position": "RF",
+              "atBats": 8,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 7,
+              "runs": 2,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Isiah Kiner-Falefa",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 6,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 3,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Tyler Heineman",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Myles Straw",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 8,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 6,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Max Scherzer",
+              "inningsPitched": "4.1",
+              "hits": 5,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "numberOfPitches": 79
+            },
+            {
+              "name": "Mason Fluharty",
+              "inningsPitched": "0.1",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 14
+            },
+            {
+              "name": "Louis Varland",
+              "inningsPitched": "1.1",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 20
+            },
+            {
+              "name": "Seranthony Domínguez",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "numberOfPitches": 27
+            },
+            {
+              "name": "Chris Bassitt",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Jeff Hoffman",
+              "inningsPitched": "2.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 33
+            },
+            {
+              "name": "Braydon Fisher",
+              "inningsPitched": "1.1",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 19
+            },
+            {
+              "name": "Eric Lauer",
+              "inningsPitched": "4.2",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 4,
+              "strikeOuts": 2,
+              "numberOfPitches": 68
+            },
+            {
+              "name": "Brendon Little",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 29
+            }
+          ]
+        },
+        "home": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 6,
+          "hits": 16,
+          "errors": 2,
+          "innings": [
+            0,
+            1,
+            1,
+            0,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 3,
+              "hits": 4,
+              "rbi": 3,
+              "baseOnBalls": 5,
+              "strikeOuts": 0,
+              "homeRuns": 2
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 8,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 7,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 2,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 6,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 4,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 7,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 8,
+              "runs": 1,
+              "hits": 4,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "CF",
+              "atBats": 8,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "LF",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Miguel Rojas",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andy Pages",
+              "position": "CF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alex Call",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Tyler Glasnow",
+              "inningsPitched": "4.2",
+              "hits": 5,
+              "runs": 4,
+              "earnedRuns": 2,
+              "baseOnBalls": 3,
+              "strikeOuts": 5,
+              "numberOfPitches": 85
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 3
+            },
+            {
+              "name": "Justin Wrobleski",
+              "inningsPitched": "1.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 28
+            },
+            {
+              "name": "Blake Treinen",
+              "inningsPitched": "0.1",
+              "hits": 3,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 15
+            },
+            {
+              "name": "Jack Dreyer",
+              "inningsPitched": "0.1",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 5
+            },
+            {
+              "name": "Roki Sasaki",
+              "inningsPitched": "1.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "numberOfPitches": 29
+            },
+            {
+              "name": "Emmet Sheehan",
+              "inningsPitched": "2.2",
+              "hits": 3,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 2,
+              "numberOfPitches": 37
+            },
+            {
+              "name": "Clayton Kershaw",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Edgardo Henriquez",
+              "inningsPitched": "2.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 30
+            },
+            {
+              "name": "Will Klein",
+              "inningsPitched": "4.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 5,
+              "numberOfPitches": 72
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 2,
+          "half": "bottom",
+          "description": "Teoscar Hernández homers (5) on a fly ball to left field.",
+          "awayScore": 0,
+          "homeScore": 1,
+          "eventType": "home_run",
+          "batter": "Teoscar Hernández",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Shohei Ohtani homers (7) on a fly ball to right field.",
+          "awayScore": 0,
+          "homeScore": 2,
+          "eventType": "home_run",
+          "batter": "Shohei Ohtani",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "top",
+          "description": "Alejandro Kirk homers (5) on a fly ball to center field. Vladimir Guerrero Jr. scores. Bo Bichette scores.",
+          "awayScore": 3,
+          "homeScore": 2,
+          "eventType": "home_run",
+          "batter": "Alejandro Kirk",
+          "rbi": 3
+        },
+        {
+          "inning": 4,
+          "half": "top",
+          "description": "Andrés Giménez out on a sacrifice fly to center fielder Andy Pages. Addison Barger scores. Ernie Clement to 2nd.",
+          "awayScore": 4,
+          "homeScore": 2,
+          "eventType": "sac_fly",
+          "batter": "Andrés Giménez",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "bottom",
+          "description": "Shohei Ohtani doubles (2) on a fly ball to left fielder Nathan Lukes. Enrique Hernández scores.",
+          "awayScore": 4,
+          "homeScore": 3,
+          "eventType": "double",
+          "batter": "Shohei Ohtani",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "bottom",
+          "description": "Freddie Freeman singles on a ground ball to right fielder Addison Barger. Shohei Ohtani scores.",
+          "awayScore": 4,
+          "homeScore": 4,
+          "eventType": "single",
+          "batter": "Freddie Freeman",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Bo Bichette singles on a ground ball to right fielder Teoscar Hernández. Vladimir Guerrero Jr. scores.",
+          "awayScore": 5,
+          "homeScore": 4,
+          "eventType": "single",
+          "batter": "Bo Bichette",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "bottom",
+          "description": "Shohei Ohtani homers (8) on a fly ball to left center field.",
+          "awayScore": 5,
+          "homeScore": 5,
+          "eventType": "home_run",
+          "batter": "Shohei Ohtani",
+          "rbi": 1
+        },
+        {
+          "inning": 18,
+          "half": "bottom",
+          "description": "Freddie Freeman homers (2) on a fly ball to center field.",
+          "awayScore": 5,
+          "homeScore": 6,
+          "eventType": "home_run",
+          "batter": "Freddie Freeman",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813032/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813032/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 6 比 5 獲勝；全場共進行 18 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-813023",
+      "gamePk": 813023,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 4,
+      "date": "2025-10-28",
+      "venue": "Dodger Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 6,
+          "hits": 11,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Nathan Lukes",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ty France",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Myles Straw",
+              "position": "LF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 2,
+              "hits": 2,
+              "rbi": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Isiah Kiner-Falefa",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Shane Bieber",
+              "inningsPitched": "5.1",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 3,
+              "strikeOuts": 3,
+              "numberOfPitches": 81
+            },
+            {
+              "name": "Mason Fluharty",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 4
+            },
+            {
+              "name": "Chris Bassitt",
+              "inningsPitched": "2.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 20
+            },
+            {
+              "name": "Louis Varland",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 20
+            }
+          ]
+        },
+        "home": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 2,
+          "hits": 6,
+          "errors": 0,
+          "innings": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andy Pages",
+              "position": "CF",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alex Call",
+              "position": "LF",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Shohei Ohtani",
+              "inningsPitched": "6.0",
+              "hits": 6,
+              "runs": 4,
+              "earnedRuns": 4,
+              "baseOnBalls": 1,
+              "strikeOuts": 6,
+              "numberOfPitches": 93
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 15
+            },
+            {
+              "name": "Blake Treinen",
+              "inningsPitched": "0.1",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Jack Dreyer",
+              "inningsPitched": "2.0",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "numberOfPitches": 29
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 2,
+          "half": "bottom",
+          "description": "Enrique Hernández out on a sacrifice fly to right fielder Addison Barger. Max Muncy scores.",
+          "awayScore": 0,
+          "homeScore": 1,
+          "eventType": "sac_fly",
+          "batter": "Enrique Hernández",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Vladimir Guerrero Jr. homers (7) on a fly ball to left center field. Nathan Lukes scores.",
+          "awayScore": 2,
+          "homeScore": 1,
+          "eventType": "home_run",
+          "batter": "Vladimir Guerrero Jr.",
+          "rbi": 2
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Andrés Giménez singles on a line drive to left fielder Enrique Hernández. Daulton Varsho scores. Ernie Clement to 3rd.",
+          "awayScore": 3,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "Andrés Giménez",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Ty France grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Ernie Clement scores. Andrés Giménez to 2nd.",
+          "awayScore": 4,
+          "homeScore": 1,
+          "eventType": "field_out",
+          "batter": "Ty France",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Bo Bichette singles on a sharp line drive to left fielder Enrique Hernández. Andrés Giménez scores. Vladimir Guerrero Jr. to 3rd.",
+          "awayScore": 5,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "Bo Bichette",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Addison Barger singles on a ground ball to left fielder Enrique Hernández. Vladimir Guerrero Jr. scores. Bo Bichette to 2nd.",
+          "awayScore": 6,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "Addison Barger",
+          "rbi": 1
+        },
+        {
+          "inning": 9,
+          "half": "bottom",
+          "description": "Tommy Edman grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr. Teoscar Hernández scores.",
+          "awayScore": 6,
+          "homeScore": 2,
+          "eventType": "field_out",
+          "batter": "Tommy Edman",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813023/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813023/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "多倫多藍鳥以 6 比 2 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-813022",
+      "gamePk": 813022,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 5,
+      "date": "2025-10-29",
+      "venue": "Dodger Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 6,
+          "hits": 9,
+          "errors": 0,
+          "innings": [
+            2,
+            0,
+            0,
+            1,
+            0,
+            0,
+            2,
+            1,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Davis Schneider",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 1
+            },
+            {
+              "name": "Myles Straw",
+              "position": "LF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "DH",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Isiah Kiner-Falefa",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Trey Yesavage",
+              "inningsPitched": "7.0",
+              "hits": 3,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 12,
+              "numberOfPitches": 104
+            },
+            {
+              "name": "Seranthony Domínguez",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 13
+            },
+            {
+              "name": "Jeff Hoffman",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 22
+            }
+          ]
+        },
+        "home": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 1,
+          "hits": 4,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 1
+            },
+            {
+              "name": "Alex Call",
+              "position": "LF",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Blake Snell",
+              "inningsPitched": "6.2",
+              "hits": 6,
+              "runs": 5,
+              "earnedRuns": 5,
+              "baseOnBalls": 4,
+              "strikeOuts": 7,
+              "numberOfPitches": 116
+            },
+            {
+              "name": "Edgardo Henriquez",
+              "inningsPitched": "0.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "numberOfPitches": 15
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "1.1",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 20
+            },
+            {
+              "name": "Blake Treinen",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 13
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Davis Schneider homers (1) on a fly ball to left field.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "home_run",
+          "batter": "Davis Schneider",
+          "rbi": 1
+        },
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Vladimir Guerrero Jr. homers (8) on a fly ball to left field.",
+          "awayScore": 2,
+          "homeScore": 0,
+          "eventType": "home_run",
+          "batter": "Vladimir Guerrero Jr.",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Enrique Hernández homers (1) on a fly ball to left field.",
+          "awayScore": 2,
+          "homeScore": 1,
+          "eventType": "home_run",
+          "batter": "Enrique Hernández",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "top",
+          "description": "Ernie Clement out on a sacrifice fly to center fielder Enrique Hernández. Daulton Varsho scores.",
+          "awayScore": 3,
+          "homeScore": 1,
+          "eventType": "sac_fly",
+          "batter": "Ernie Clement",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Vladimir Guerrero Jr. walks. Addison Barger scores. Andrés Giménez to 2nd. Wild pitch by pitcher Edgardo Henriquez.",
+          "awayScore": 4,
+          "homeScore": 1,
+          "eventType": "walk",
+          "batter": "Vladimir Guerrero Jr.",
+          "rbi": 0
+        },
+        {
+          "inning": 7,
+          "half": "top",
+          "description": "Bo Bichette singles on a line drive to right fielder Teoscar Hernández. Andrés Giménez scores. Vladimir Guerrero Jr. to 3rd.",
+          "awayScore": 5,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "Bo Bichette",
+          "rbi": 1
+        },
+        {
+          "inning": 8,
+          "half": "top",
+          "description": "Isiah Kiner-Falefa singles on a ground ball to left fielder Alex Call. Ernie Clement scores.",
+          "awayScore": 6,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "Isiah Kiner-Falefa",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813022/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813022/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "多倫多藍鳥以 6 比 1 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-813025",
+      "gamePk": 813025,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 6,
+      "date": "2025-10-31",
+      "venue": "Rogers Centre",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 3,
+          "hits": 4,
+          "errors": 1,
+          "innings": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andy Pages",
+              "position": "RF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Justin Dean",
+              "position": "CF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Miguel Rojas",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Yoshinobu Yamamoto",
+              "inningsPitched": "6.0",
+              "hits": 5,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 6,
+              "numberOfPitches": 96
+            },
+            {
+              "name": "Justin Wrobleski",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 16
+            },
+            {
+              "name": "Roki Sasaki",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 33
+            },
+            {
+              "name": "Tyler Glasnow",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 3
+            }
+          ]
+        },
+        "home": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 1,
+          "hits": 8,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "George Springer",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nathan Lukes",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Myles Straw",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Kevin Gausman",
+              "inningsPitched": "6.0",
+              "hits": 3,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 2,
+              "strikeOuts": 8,
+              "numberOfPitches": 93
+            },
+            {
+              "name": "Louis Varland",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 17
+            },
+            {
+              "name": "Mason Fluharty",
+              "inningsPitched": "0.1",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Seranthony Domínguez",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 10
+            },
+            {
+              "name": "Chris Bassitt",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 13
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Will Smith doubles (1) on a fly ball to left fielder Nathan Lukes. Tommy Edman scores. Shohei Ohtani to 3rd.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "double",
+          "batter": "Will Smith",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Mookie Betts singles on a ground ball to left fielder Nathan Lukes. Shohei Ohtani scores. Will Smith scores. Freddie Freeman to 2nd.",
+          "awayScore": 3,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Mookie Betts",
+          "rbi": 2
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "George Springer singles on a sharp line drive to center fielder Tommy Edman. Addison Barger scores.",
+          "awayScore": 3,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "George Springer",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813025/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813025/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 3 比 1 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-813024",
+      "gamePk": 813024,
+      "season": 2025,
+      "seriesId": "mlb-2025-world-series",
+      "seriesName": "2025 世界大賽",
+      "number": 7,
+      "date": "2025-11-01",
+      "venue": "Rogers Centre",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 5,
+          "hits": 11,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 6,
+              "runs": 2,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 6,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 3,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Justin Dean",
+              "position": "CF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andy Pages",
+              "position": "RF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "LF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Miguel Rojas",
+              "position": "2B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Hyeseong Kim",
+              "position": "2B",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Shohei Ohtani",
+              "inningsPitched": "2.1",
+              "hits": 5,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 2,
+              "strikeOuts": 3,
+              "numberOfPitches": 51
+            },
+            {
+              "name": "Justin Wrobleski",
+              "inningsPitched": "1.1",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 21
+            },
+            {
+              "name": "Tyler Glasnow",
+              "inningsPitched": "2.1",
+              "hits": 3,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 38
+            },
+            {
+              "name": "Emmet Sheehan",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 20
+            },
+            {
+              "name": "Blake Snell",
+              "inningsPitched": "1.1",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 28
+            },
+            {
+              "name": "Yoshinobu Yamamoto",
+              "inningsPitched": "2.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 34
+            }
+          ]
+        },
+        "home": {
+          "code": "TOR",
+          "name": "多倫多藍鳥",
+          "runs": 4,
+          "hits": 14,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "George Springer",
+              "position": "DH",
+              "atBats": 6,
+              "runs": 1,
+              "hits": 3,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nathan Lukes",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Davis Schneider",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Myles Straw",
+              "position": "LF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Vladimir Guerrero Jr.",
+              "position": "1B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Bo Bichette",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 3,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Isiah Kiner-Falefa",
+              "position": "2B",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Addison Barger",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alejandro Kirk",
+              "position": "C",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Daulton Varsho",
+              "position": "CF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ernie Clement",
+              "position": "3B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 3,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrés Giménez",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Max Scherzer",
+              "inningsPitched": "4.1",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "numberOfPitches": 54
+            },
+            {
+              "name": "Louis Varland",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 9
+            },
+            {
+              "name": "Chris Bassitt",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 26
+            },
+            {
+              "name": "Trey Yesavage",
+              "inningsPitched": "1.2",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 21
+            },
+            {
+              "name": "Jeff Hoffman",
+              "inningsPitched": "1.1",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 22
+            },
+            {
+              "name": "Seranthony Domínguez",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "numberOfPitches": 27
+            },
+            {
+              "name": "Shane Bieber",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 13
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Bo Bichette homers (1) on a fly ball to center field. George Springer scores. Vladimir Guerrero Jr. scores.",
+          "awayScore": 0,
+          "homeScore": 3,
+          "eventType": "home_run",
+          "batter": "Bo Bichette",
+          "rbi": 3
+        },
+        {
+          "inning": 4,
+          "half": "top",
+          "description": "Teoscar Hernández out on a sacrifice fly to center fielder Daulton Varsho. Will Smith scores.",
+          "awayScore": 1,
+          "homeScore": 3,
+          "eventType": "sac_fly",
+          "batter": "Teoscar Hernández",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "top",
+          "description": "Tommy Edman out on a sacrifice fly to center fielder Daulton Varsho. Mookie Betts scores.",
+          "awayScore": 2,
+          "homeScore": 3,
+          "eventType": "sac_fly",
+          "batter": "Tommy Edman",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Andrés Giménez doubles (2) on a line drive to right fielder Teoscar Hernández. Ernie Clement scores.",
+          "awayScore": 2,
+          "homeScore": 4,
+          "eventType": "double",
+          "batter": "Andrés Giménez",
+          "rbi": 1
+        },
+        {
+          "inning": 8,
+          "half": "top",
+          "description": "Max Muncy homers (3) on a fly ball to right field.",
+          "awayScore": 3,
+          "homeScore": 4,
+          "eventType": "home_run",
+          "batter": "Max Muncy",
+          "rbi": 1
+        },
+        {
+          "inning": 9,
+          "half": "top",
+          "description": "Miguel Rojas homers (1) on a fly ball to left field.",
+          "awayScore": 4,
+          "homeScore": 4,
+          "eventType": "home_run",
+          "batter": "Miguel Rojas",
+          "rbi": 1
+        },
+        {
+          "inning": 11,
+          "half": "top",
+          "description": "Will Smith homers (2) on a fly ball to left field.",
+          "awayScore": 5,
+          "homeScore": 4,
+          "eventType": "home_run",
+          "batter": "Will Smith",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/813024/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/813024/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 5 比 4 獲勝；全場共進行 11 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-849805",
+      "gamePk": 849805,
+      "season": 2026,
+      "seriesId": "mlb-2026-world-series",
+      "seriesName": "2026 世界大賽",
+      "number": 1,
+      "date": "2026-10-23",
+      "venue": "American Family Field",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "TB",
+          "name": "坦帕灣光芒",
+          "runs": 2,
+          "hits": 7,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Yandy Díaz",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonathan Aranda",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 3,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jorge Mateo",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chandler Simpson",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Junior Caminero",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Liam Hicks",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonny DeLuca",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Victor Mesa Jr.",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ben Williamson",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Taylor Walls",
+              "position": "SS",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ryan Vilade",
+              "position": "2B",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Nick Martinez",
+              "inningsPitched": "5.0",
+              "hits": 5,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 5,
+              "numberOfPitches": 73
+            },
+            {
+              "name": "Steven Matz",
+              "inningsPitched": "1.2",
+              "hits": 0,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 3,
+              "strikeOuts": 0,
+              "numberOfPitches": 31
+            },
+            {
+              "name": "Kevin Kelly",
+              "inningsPitched": "0.1",
+              "hits": 3,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 12
+            },
+            {
+              "name": "Garrett Cleavinger",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 10
+            },
+            {
+              "name": "Cole Sulser",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 4
+            }
+          ]
+        },
+        "home": {
+          "code": "MIL",
+          "name": "密爾瓦基釀酒人",
+          "runs": 3,
+          "hits": 8,
+          "errors": 0,
+          "innings": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            null
+          ],
+          "batters": [
+            {
+              "name": "Jackson Chourio",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jake Bauers",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Christian Yelich",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "William Contreras",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Brice Turang",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Garrett Mitchell",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cooper Pratt",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Sal Frelick",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Gary Sánchez",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Luis Lara",
+              "position": "RF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "David Hamilton",
+              "position": "3B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Joey Ortiz",
+              "position": "3B",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Jacob Misiorowski",
+              "inningsPitched": "5.0",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "numberOfPitches": 78
+            },
+            {
+              "name": "Abner Uribe",
+              "inningsPitched": "1.1",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 15
+            },
+            {
+              "name": "Aaron Ashby",
+              "inningsPitched": "1.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 20
+            },
+            {
+              "name": "Trevor Megill",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 20
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 1,
+          "half": "bottom",
+          "description": "Christian Yelich triples (1) on a sharp line drive to center fielder Jonny DeLuca. Jackson Chourio scores.",
+          "awayScore": 0,
+          "homeScore": 1,
+          "eventType": "triple",
+          "batter": "Christian Yelich",
+          "rbi": 1
+        },
+        {
+          "inning": 1,
+          "half": "bottom",
+          "description": "William Contreras singles on a sharp line drive to left fielder Chandler Simpson, deflected by shortstop Taylor Walls. Christian Yelich scores.",
+          "awayScore": 0,
+          "homeScore": 2,
+          "eventType": "single",
+          "batter": "William Contreras",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "top",
+          "description": "Liam Hicks grounds out, first baseman Jake Bauers to pitcher Jacob Misiorowski. Jonathan Aranda scores. Junior Caminero to 3rd.",
+          "awayScore": 1,
+          "homeScore": 2,
+          "eventType": "field_out",
+          "batter": "Liam Hicks",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "bottom",
+          "description": "Jackson Chourio singles on a ground ball to right fielder Victor Mesa Jr. Cooper Pratt scores.",
+          "awayScore": 1,
+          "homeScore": 3,
+          "eventType": "single",
+          "batter": "Jackson Chourio",
+          "rbi": 1
+        },
+        {
+          "inning": 9,
+          "half": "top",
+          "description": "Rays challenged (force play), call on the field was overturned: Rays challenged (play at 1st), call on the field was upheld: Liam Hicks grounds out sharply, second baseman Brice Turang to shortstop Cooper Pratt to first baseman Jake Bauers. Jorge Mateo scores. Chandler Simpson to 3rd. Junior Caminero to 2nd.",
+          "awayScore": 2,
+          "homeScore": 3,
+          "eventType": "field_out",
+          "batter": "Liam Hicks",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/849805/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/849805/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "密爾瓦基釀酒人以 3 比 2 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-849802",
+      "gamePk": 849802,
+      "season": 2026,
+      "seriesId": "mlb-2026-world-series",
+      "seriesName": "2026 世界大賽",
+      "number": 2,
+      "date": "2026-10-24",
+      "venue": "American Family Field",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "TB",
+          "name": "坦帕灣光芒",
+          "runs": 4,
+          "hits": 7,
+          "errors": 1,
+          "innings": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Yandy Díaz",
+              "position": "DH",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonathan Aranda",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chandler Simpson",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Junior Caminero",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Liam Hicks",
+              "position": "C",
+              "atBats": 2,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Ryan Vilade",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nick Fortes",
+              "position": "C",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Richie Palacios",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonny DeLuca",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Victor Mesa Jr.",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Taylor Walls",
+              "position": "SS",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ben Williamson",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Drew Rasmussen",
+              "inningsPitched": "3.2",
+              "hits": 6,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 2,
+              "strikeOuts": 4,
+              "numberOfPitches": 89
+            },
+            {
+              "name": "Cam Booser",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 13
+            },
+            {
+              "name": "Ian Seymour",
+              "inningsPitched": "0.2",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 34
+            },
+            {
+              "name": "Tyler Wells",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Kevin Kelly",
+              "inningsPitched": "1.1",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 32
+            },
+            {
+              "name": "Steven Matz",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 8
+            }
+          ]
+        },
+        "home": {
+          "code": "MIL",
+          "name": "密爾瓦基釀酒人",
+          "runs": 5,
+          "hits": 11,
+          "errors": 1,
+          "innings": [
+            2,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            null
+          ],
+          "batters": [
+            {
+              "name": "Jackson Chourio",
+              "position": "LF",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jake Bauers",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Christian Yelich",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "William Contreras",
+              "position": "C",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Brice Turang",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Garrett Mitchell",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cooper Pratt",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Sal Frelick",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "David Hamilton",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Logan Henderson",
+              "inningsPitched": "3.0",
+              "hits": 3,
+              "runs": 4,
+              "earnedRuns": 3,
+              "baseOnBalls": 1,
+              "strikeOuts": 4,
+              "numberOfPitches": 64
+            },
+            {
+              "name": "JoJo Romero",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 16
+            },
+            {
+              "name": "Dustin May",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 12
+            },
+            {
+              "name": "DL Hall",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 11
+            },
+            {
+              "name": "Abner Uribe",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 26
+            },
+            {
+              "name": "Aaron Ashby",
+              "inningsPitched": "1.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 28
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Chandler Simpson singles on a ground ball to center fielder Garrett Mitchell. Yandy Díaz scores.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Chandler Simpson",
+          "rbi": 1
+        },
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Junior Caminero singles on a ground ball to left fielder Jackson Chourio. Chandler Simpson scores.",
+          "awayScore": 2,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Junior Caminero",
+          "rbi": 1
+        },
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Liam Hicks homers (1) on a fly ball to right center field. Junior Caminero scores.",
+          "awayScore": 4,
+          "homeScore": 0,
+          "eventType": "home_run",
+          "batter": "Liam Hicks",
+          "rbi": 2
+        },
+        {
+          "inning": 1,
+          "half": "bottom",
+          "description": "William Contreras singles on a ground ball to center fielder Jonny DeLuca. Jackson Chourio scores. Jake Bauers to 3rd.",
+          "awayScore": 4,
+          "homeScore": 1,
+          "eventType": "single",
+          "batter": "William Contreras",
+          "rbi": 1
+        },
+        {
+          "inning": 1,
+          "half": "bottom",
+          "description": "Garrett Mitchell singles on a sharp line drive to right fielder Victor Mesa Jr. Jake Bauers scores. William Contreras to 3rd.",
+          "awayScore": 4,
+          "homeScore": 2,
+          "eventType": "single",
+          "batter": "Garrett Mitchell",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "bottom",
+          "description": "David Hamilton reaches on a fielding error by first baseman Jonathan Aranda. Cooper Pratt scores. Sal Frelick to 2nd.",
+          "awayScore": 4,
+          "homeScore": 3,
+          "eventType": "field_error",
+          "batter": "David Hamilton",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Sal Frelick homers (1) on a fly ball to center field.",
+          "awayScore": 4,
+          "homeScore": 4,
+          "eventType": "home_run",
+          "batter": "Sal Frelick",
+          "rbi": 1
+        },
+        {
+          "inning": 7,
+          "half": "bottom",
+          "description": "Cooper Pratt singles on a line drive to right fielder Victor Mesa Jr. Brice Turang scores.",
+          "awayScore": 4,
+          "homeScore": 5,
+          "eventType": "single",
+          "batter": "Cooper Pratt",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/849802/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/849802/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "密爾瓦基釀酒人以 5 比 4 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-849804",
+      "gamePk": 849804,
+      "season": 2026,
+      "seriesId": "mlb-2026-world-series",
+      "seriesName": "2026 世界大賽",
+      "number": 3,
+      "date": "2026-10-26",
+      "venue": "Tropicana Field",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "MIL",
+          "name": "密爾瓦基釀酒人",
+          "runs": 10,
+          "hits": 16,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            2,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Jackson Chourio",
+              "position": "LF",
+              "atBats": 5,
+              "runs": 2,
+              "hits": 4,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jake Bauers",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Christian Yelich",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Andrew Vaughn",
+              "position": "DH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "William Contreras",
+              "position": "C",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 3,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Gary Sánchez",
+              "position": "C",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Brice Turang",
+              "position": "2B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 3,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Garrett Mitchell",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Luis Lara",
+              "position": "CF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cooper Pratt",
+              "position": "SS",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Sal Frelick",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "David Hamilton",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Joey Ortiz",
+              "position": "3B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Robert Gasser",
+              "inningsPitched": "6.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "numberOfPitches": 75
+            },
+            {
+              "name": "Antonio Senzatela",
+              "inningsPitched": "2.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 26
+            },
+            {
+              "name": "Brandon Woodruff",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 18
+            }
+          ]
+        },
+        "home": {
+          "code": "TB",
+          "name": "坦帕灣光芒",
+          "runs": 1,
+          "hits": 3,
+          "errors": 1,
+          "innings": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Yandy Díaz",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ryan Vilade",
+              "position": "1B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonathan Aranda",
+              "position": "1B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chandler Simpson",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Junior Caminero",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ben Williamson",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonny DeLuca",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Victor Mesa Jr.",
+              "position": "RF",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nick Fortes",
+              "position": "C",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cedric Mullins",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Taylor Walls",
+              "position": "SS",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jorge Mateo",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Freddy Peralta",
+              "inningsPitched": "4.2",
+              "hits": 7,
+              "runs": 5,
+              "earnedRuns": 5,
+              "baseOnBalls": 3,
+              "strikeOuts": 4,
+              "numberOfPitches": 87
+            },
+            {
+              "name": "Cam Booser",
+              "inningsPitched": "0.0",
+              "hits": 4,
+              "runs": 4,
+              "earnedRuns": 4,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 12
+            },
+            {
+              "name": "Cole Sulser",
+              "inningsPitched": "1.1",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 32
+            },
+            {
+              "name": "Garrett Cleavinger",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 11
+            },
+            {
+              "name": "Tyler Wells",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 16
+            },
+            {
+              "name": "Steven Matz",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 17
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Christian Yelich singles on a fly ball to left fielder Chandler Simpson. Jackson Chourio scores. Jake Bauers to 2nd.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Christian Yelich",
+          "rbi": 1
+        },
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "William Contreras singles on a line drive to right fielder Victor Mesa Jr. Jake Bauers scores. William Contreras out at 2nd on the throw, right fielder Victor Mesa Jr. to shortstop Taylor Walls. Christian Yelich to 3rd.",
+          "awayScore": 2,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "William Contreras",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Brice Turang singles on a ground ball to shortstop Taylor Walls. Jackson Chourio scores. Christian Yelich scores. William Contreras to 2nd.",
+          "awayScore": 4,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Brice Turang",
+          "rbi": 2
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Garrett Mitchell singles on a ground ball to left fielder Chandler Simpson. William Contreras scores. Brice Turang to 2nd.",
+          "awayScore": 5,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Garrett Mitchell",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Cooper Pratt doubles (2) on a ground ball to left fielder Chandler Simpson, deflected by third baseman Junior Caminero. Brice Turang scores. Garrett Mitchell scores.",
+          "awayScore": 7,
+          "homeScore": 0,
+          "eventType": "double",
+          "batter": "Cooper Pratt",
+          "rbi": 2
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Sal Frelick doubles (1) on a line drive to left fielder Chandler Simpson. Cooper Pratt scores.",
+          "awayScore": 8,
+          "homeScore": 0,
+          "eventType": "double",
+          "batter": "Sal Frelick",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "David Hamilton singles on a line drive to center fielder Jonny DeLuca. Sal Frelick scores.",
+          "awayScore": 9,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "David Hamilton",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Jackson Chourio doubles (1) on a fly ball to right fielder Victor Mesa Jr. David Hamilton scores.",
+          "awayScore": 10,
+          "homeScore": 0,
+          "eventType": "double",
+          "batter": "Jackson Chourio",
+          "rbi": 1
+        },
+        {
+          "inning": 9,
+          "half": "bottom",
+          "description": "Yandy Díaz doubles (5) on a fly ball to center fielder Luis Lara. Cedric Mullins scores.",
+          "awayScore": 10,
+          "homeScore": 1,
+          "eventType": "double",
+          "batter": "Yandy Díaz",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/849804/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/849804/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "密爾瓦基釀酒人以 10 比 1 獲勝；全場共進行 9 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-849803",
+      "gamePk": 849803,
+      "season": 2026,
+      "seriesId": "mlb-2026-world-series",
+      "seriesName": "2026 世界大賽",
+      "number": 4,
+      "date": "2026-10-27",
+      "venue": "Tropicana Field",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "MIL",
+          "name": "密爾瓦基釀酒人",
+          "runs": 3,
+          "hits": 8,
+          "errors": 2,
+          "innings": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Jackson Chourio",
+              "position": "LF",
+              "atBats": 6,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jake Bauers",
+              "position": "1B",
+              "atBats": 6,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Christian Yelich",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "William Contreras",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Brice Turang",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Sal Frelick",
+              "position": "RF",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cooper Pratt",
+              "position": "SS",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 4,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Garrett Mitchell",
+              "position": "CF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Luis Lara",
+              "position": "CF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "David Hamilton",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 1
+            },
+            {
+              "name": "Andrew Vaughn",
+              "position": "PH",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Joey Ortiz",
+              "position": "3B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Dustin May",
+              "inningsPitched": "3.0",
+              "hits": 3,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 39
+            },
+            {
+              "name": "JoJo Romero",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 11
+            },
+            {
+              "name": "Abner Uribe",
+              "inningsPitched": "2.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 19
+            },
+            {
+              "name": "DL Hall",
+              "inningsPitched": "1.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 24
+            },
+            {
+              "name": "Trevor Megill",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 5
+            },
+            {
+              "name": "Aaron Ashby",
+              "inningsPitched": "2.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 31
+            },
+            {
+              "name": "Antonio Senzatela",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 1,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 18
+            },
+            {
+              "name": "Shane Drohan",
+              "inningsPitched": "0.0",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 15
+            }
+          ]
+        },
+        "home": {
+          "code": "TB",
+          "name": "坦帕灣光芒",
+          "runs": 4,
+          "hits": 9,
+          "errors": 1,
+          "innings": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2
+          ],
+          "batters": [
+            {
+              "name": "Yandy Díaz",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jorge Mateo",
+              "position": "DH",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonathan Aranda",
+              "position": "1B",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Junior Caminero",
+              "position": "3B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cedric Mullins",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Liam Hicks",
+              "position": "C",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Nick Fortes",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonny DeLuca",
+              "position": "CF",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chandler Simpson",
+              "position": "LF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 3,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ryan Vilade",
+              "position": "RF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Victor Mesa Jr.",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ben Williamson",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Richie Palacios",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Taylor Walls",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Griffin Jax",
+              "inningsPitched": "4.0",
+              "hits": 4,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 2,
+              "strikeOuts": 6,
+              "numberOfPitches": 74
+            },
+            {
+              "name": "Kevin Kelly",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 12
+            },
+            {
+              "name": "Nick Martinez",
+              "inningsPitched": "2.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 33
+            },
+            {
+              "name": "Bryan Baker",
+              "inningsPitched": "2.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 21
+            },
+            {
+              "name": "Tyler Wells",
+              "inningsPitched": "1.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 24
+            },
+            {
+              "name": "Cam Booser",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 9
+            },
+            {
+              "name": "Ian Seymour",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 32
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 2,
+          "half": "bottom",
+          "description": "Chandler Simpson doubles (2) on a line drive to right fielder Sal Frelick. Jonny DeLuca scores.",
+          "awayScore": 0,
+          "homeScore": 1,
+          "eventType": "double",
+          "batter": "Chandler Simpson",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "top",
+          "description": "Cooper Pratt doubles (3) on a line drive to left fielder Chandler Simpson. Sal Frelick scores.",
+          "awayScore": 1,
+          "homeScore": 1,
+          "eventType": "double",
+          "batter": "Cooper Pratt",
+          "rbi": 1
+        },
+        {
+          "inning": 4,
+          "half": "bottom",
+          "description": "Brewers challenged (tag play), call on the field was upheld: Jonny DeLuca reaches on a fielder's choice, fielded by third baseman David Hamilton. Junior Caminero scores. Throwing error by third baseman David Hamilton.",
+          "awayScore": 1,
+          "homeScore": 2,
+          "eventType": "fielders_choice",
+          "batter": "Jonny DeLuca",
+          "rbi": 0
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "David Hamilton homers (2) on a fly ball to right center field.",
+          "awayScore": 2,
+          "homeScore": 2,
+          "eventType": "home_run",
+          "batter": "David Hamilton",
+          "rbi": 1
+        },
+        {
+          "inning": 12,
+          "half": "top",
+          "description": "Cooper Pratt homers (1) on a fly ball to left center field.",
+          "awayScore": 3,
+          "homeScore": 2,
+          "eventType": "home_run",
+          "batter": "Cooper Pratt",
+          "rbi": 1
+        },
+        {
+          "inning": 12,
+          "half": "bottom",
+          "description": "Jonny DeLuca singles on a ground ball to center fielder Luis Lara. Cedric Mullins scores. Liam Hicks to 2nd.",
+          "awayScore": 3,
+          "homeScore": 3,
+          "eventType": "single",
+          "batter": "Jonny DeLuca",
+          "rbi": 1
+        },
+        {
+          "inning": 12,
+          "half": "bottom",
+          "description": "Ben Williamson singles on a ground ball to right fielder Sal Frelick. Nick Fortes scores. Jonny DeLuca to 3rd. Chandler Simpson to 2nd.",
+          "awayScore": 3,
+          "homeScore": 4,
+          "eventType": "single",
+          "batter": "Ben Williamson",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/849803/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/849803/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "坦帕灣光芒以 4 比 3 獲勝；全場共進行 12 局。",
+      "reflection": null
+    },
+    {
+      "id": "mlb-849799",
+      "gamePk": 849799,
+      "season": 2026,
+      "seriesId": "mlb-2026-world-series",
+      "seriesName": "2026 世界大賽",
+      "number": 5,
+      "date": "2026-10-28",
+      "venue": "Tropicana Field",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "MIL",
+          "name": "密爾瓦基釀酒人",
+          "runs": 4,
+          "hits": 8,
+          "errors": 2,
+          "innings": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            2,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Jackson Chourio",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jake Bauers",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Christian Yelich",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "William Contreras",
+              "position": "C",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Brice Turang",
+              "position": "2B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Sal Frelick",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Cooper Pratt",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Garrett Mitchell",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "David Hamilton",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Jacob Misiorowski",
+              "inningsPitched": "5.2",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 86
+            },
+            {
+              "name": "JoJo Romero",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 10
+            },
+            {
+              "name": "Abner Uribe",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 10
+            },
+            {
+              "name": "Trevor Megill",
+              "inningsPitched": "2.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 29
+            }
+          ]
+        },
+        "home": {
+          "code": "TB",
+          "name": "坦帕灣光芒",
+          "runs": 1,
+          "hits": 4,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Yandy Díaz",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonathan Aranda",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Junior Caminero",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Liam Hicks",
+              "position": "C",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jonny DeLuca",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chandler Simpson",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ben Williamson",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Richie Palacios",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Ryan Vilade",
+              "position": "RF",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Victor Mesa Jr.",
+              "position": "RF",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Taylor Walls",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Drew Rasmussen",
+              "inningsPitched": "4.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 4,
+              "numberOfPitches": 48
+            },
+            {
+              "name": "Kevin Kelly",
+              "inningsPitched": "0.2",
+              "hits": 3,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 17
+            },
+            {
+              "name": "Garrett Cleavinger",
+              "inningsPitched": "0.1",
+              "hits": 2,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Tyler Wells",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 14
+            },
+            {
+              "name": "Steven Matz",
+              "inningsPitched": "1.1",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 18
+            },
+            {
+              "name": "Bryan Baker",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 7
+            },
+            {
+              "name": "Ian Seymour",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 8
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 2,
+          "half": "top",
+          "description": "Cooper Pratt singles on a line drive to center fielder Jonny DeLuca. Brice Turang scores. Cooper Pratt out at 2nd on the throw, center fielder Jonny DeLuca to third baseman Junior Caminero to second baseman Ben Williamson to first baseman Jonathan Aranda to shortstop Taylor Walls. Sal Frelick to 3rd.",
+          "awayScore": 1,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "Cooper Pratt",
+          "rbi": 1
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "David Hamilton singles on a sharp ground ball to right fielder Ryan Vilade. Cooper Pratt scores. Garrett Mitchell to 2nd.",
+          "awayScore": 2,
+          "homeScore": 0,
+          "eventType": "single",
+          "batter": "David Hamilton",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "top",
+          "description": "William Contreras doubles (2) on a fly ball to left fielder Chandler Simpson. Christian Yelich scores.",
+          "awayScore": 3,
+          "homeScore": 0,
+          "eventType": "double",
+          "batter": "William Contreras",
+          "rbi": 1
+        },
+        {
+          "inning": 6,
+          "half": "top",
+          "description": "Cooper Pratt out on a sacrifice fly to right fielder Ryan Vilade in foul territory. William Contreras scores. Brice Turang to 3rd.",
+          "awayScore": 4,
+          "homeScore": 0,
+          "eventType": "sac_fly",
+          "batter": "Cooper Pratt",
+          "rbi": 1
+        },
+        {
+          "inning": 9,
+          "half": "bottom",
+          "description": "Chandler Simpson doubles (3) on a line drive to right fielder Sal Frelick. Liam Hicks scores.",
+          "awayScore": 4,
+          "homeScore": 1,
+          "eventType": "double",
+          "batter": "Chandler Simpson",
+          "rbi": 1
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/849799/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/849799/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "密爾瓦基釀酒人以 4 比 1 獲勝；全場共進行 9 局。",
+      "reflection": null
     }
   ]
 }

@@ -9,7 +9,7 @@ const added=selectGames(db.games,{year:'2023',series:'mlb-2023-world-series'});
 assert.equal(added.length,1);assert.equal(added[0].gamePk,748534);
 assert.equal(resultOf(added[0],'TEX'),'win');assert.equal(resultOf(added[0],'LAD'),null);
 assert.equal(teamStats(added).find(t=>t.code==='TEX').runs,5);
-assert.equal(selectGames(db.games,{team:'LAD',result:'loss'}).length,1);
+assert.equal(selectGames(db.games,{year:'2024',team:'LAD',result:'loss'}).length,1);
 assert.equal(selectGames(db.games,{year:'2023',team:'LAD'}).length,0);
 assert.equal(selectGames(db.games,{series:'mlb-2024-world-series',query:'2024-10-29'}).length,1);
 assert.equal(selectGames(db.games,{query:'Nathan Eovaldi'}).length,1);
@@ -20,5 +20,5 @@ const fake=(date,a,b)=>({date,gamePk:1,season:2022,seriesId:'test',seriesName:'T
 assert.equal(teamStats([fake('2022-01-01',2,2)]).find(t=>t.code==='AAA').ties,1);
 assert.equal(selectGames([fake('2022-01-01',2,2)],{team:'AAA',result:'tie'}).length,1);
 assert.equal(teamStats(db.games).find(t=>t.code==='TEX').games,1);
-assert.equal(teamStats(db.games).find(t=>t.code==='LAD').games,5);
+assert.equal(teamStats(db.games).find(t=>t.code==='LAD').games,db.games.filter(g=>Object.values(g.teams).some(t=>t.code==='LAD')).length);
 console.log('Archive regression checks passed: multi-year, different teams, scope, search, empty and tie cases.');
