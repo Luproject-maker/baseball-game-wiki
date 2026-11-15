@@ -2,8 +2,8 @@
   "verifiedDate": "2026-11-15",
   "repository": "https://github.com/Luproject-maker/baseball-game-wiki",
   "website": "https://luproject-maker.github.io/baseball-game-wiki/",
-  "status": "deploying_2025_2026_seasons",
-  "deployedSourceCommit": "b24408e1d43fa354cad8f74ef3a5bafee4d9bbb9",
-  "verification": "閱讀體驗版已發布。本次追加2025七場與2026五場，共18場、四年度、七隊；本機4556項資料檢查及三組回歸檢查通過，待確認新增年度上線。",
+  "status": "live",
+  "deployedSourceCommit": "44642507b9e3cffbc1ba628d7ae73e7c5f3ac058",
+  "verification": "公開網站HTTP確認18場：2023一場、2024五場、2025七場、2026五場，總得分151。線上瀏覽器確認2025篩選7場、2026篩選5場，2026總覽釀酒人4勝光芒1勝，Console error為空。4556項官方資料檢查及三組回歸檢查通過。",
   "handoff": "GitHub專案與網站由AI更新，課程平台作業由使用者自行繳交。"
 }
