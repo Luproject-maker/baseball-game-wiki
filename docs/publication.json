@@ -2,8 +2,8 @@
   "verifiedDate": "2026-11-15",
   "repository": "https://github.com/Luproject-maker/baseball-game-wiki",
   "website": "https://luproject-maker.github.io/baseball-game-wiki/",
-  "status": "deploying_experience_revision",
-  "deployedSourceCommit": "ad96938aa1a57b73c5314f8b12f82bf194a1d92a",
-  "verification": "跨年度原版已發布。六項閱讀體驗改版已通過1434項官方資料檢查、跨年度與閱讀體驗回歸檢查，待確認最新版網站部署。",
+  "status": "live",
+  "deployedSourceCommit": "b24408e1d43fa354cad8f74ef3a5bafee4d9bbb9",
+  "verification": "公開網站已驗證精選球場主視覺、系列賽進度、球員亮點、逐局走勢及中文時間軸。線上滑桿Home顯示賽前0:0、End顯示第10局3:6，Freeman再見滿貫中文事件正常，Console error為空。1434項官方資料比對及兩組回歸檢查通過，作業說明為五頁。",
   "handoff": "GitHub專案與網站由AI更新，課程平台作業由使用者自行繳交。"
 }
