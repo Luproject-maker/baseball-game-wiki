@@ -396,70 +396,100 @@
       "half": "bottom",
       "description": "Aaron Judge homers (3) on a fly ball to right center field. Juan Soto scores.",
       "awayScore": 0,
-      "homeScore": 2
+      "homeScore": 2,
+      "eventType": "home_run",
+      "batter": "Aaron Judge",
+      "rbi": 2
     },
     {
       "inning": 1,
       "half": "bottom",
       "description": "Jazz Chisholm Jr. homers (2) on a fly ball to right center field.",
       "awayScore": 0,
-      "homeScore": 3
+      "homeScore": 3,
+      "eventType": "home_run",
+      "batter": "Jazz Chisholm Jr.",
+      "rbi": 1
     },
     {
       "inning": 2,
       "half": "bottom",
       "description": "Alex Verdugo singles on a line drive to right fielder Mookie Betts. Anthony Volpe scores.",
       "awayScore": 0,
-      "homeScore": 4
+      "homeScore": 4,
+      "eventType": "single",
+      "batter": "Alex Verdugo",
+      "rbi": 1
     },
     {
       "inning": 3,
       "half": "bottom",
       "description": "Giancarlo Stanton homers (7) on a fly ball to right field.",
       "awayScore": 0,
-      "homeScore": 5
+      "homeScore": 5,
+      "eventType": "home_run",
+      "batter": "Giancarlo Stanton",
+      "rbi": 1
     },
     {
       "inning": 5,
       "half": "top",
       "description": "Mookie Betts singles on a ground ball to first baseman Anthony Rizzo. Enrique Hernández scores. Tommy Edman to 3rd. Will Smith to 2nd.",
       "awayScore": 1,
-      "homeScore": 5
+      "homeScore": 5,
+      "eventType": "single",
+      "batter": "Mookie Betts",
+      "rbi": 1
     },
     {
       "inning": 5,
       "half": "top",
       "description": "Freddie Freeman singles on a line drive to center fielder Aaron Judge. Tommy Edman scores. Will Smith scores. Mookie Betts to 3rd.",
       "awayScore": 3,
-      "homeScore": 5
+      "homeScore": 5,
+      "eventType": "single",
+      "batter": "Freddie Freeman",
+      "rbi": 2
     },
     {
       "inning": 5,
       "half": "top",
       "description": "Teoscar Hernández doubles (1) on a sharp fly ball to center fielder Aaron Judge. Mookie Betts scores. Freddie Freeman scores.",
       "awayScore": 5,
-      "homeScore": 5
+      "homeScore": 5,
+      "eventType": "double",
+      "batter": "Teoscar Hernández",
+      "rbi": 2
     },
     {
       "inning": 6,
       "half": "bottom",
       "description": "Giancarlo Stanton out on a sacrifice fly to center fielder Enrique Hernández. Juan Soto scores. Jazz Chisholm Jr. to 2nd.",
       "awayScore": 5,
-      "homeScore": 6
+      "homeScore": 6,
+      "eventType": "sac_fly",
+      "batter": "Giancarlo Stanton",
+      "rbi": 1
     },
     {
       "inning": 8,
       "half": "top",
       "description": "Gavin Lux out on a sacrifice fly to center fielder Aaron Judge. Enrique Hernández scores. Tommy Edman to 3rd.",
       "awayScore": 6,
-      "homeScore": 6
+      "homeScore": 6,
+      "eventType": "sac_fly",
+      "batter": "Gavin Lux",
+      "rbi": 1
     },
     {
       "inning": 8,
       "half": "top",
       "description": "Mookie Betts out on a sacrifice fly to center fielder Aaron Judge. Tommy Edman scores. Will Smith to 3rd.",
       "awayScore": 7,
-      "homeScore": 6
+      "homeScore": 6,
+      "eventType": "sac_fly",
+      "batter": "Mookie Betts",
+      "rbi": 1
     }
   ],
   "source": "https://statsapi.mlb.com/api/v1.1/game/775296/feed/live",

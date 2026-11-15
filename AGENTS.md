@@ -8,6 +8,7 @@
 - index.html 是共用入口；使用 #game/比賽id、#stats、#about 切換頁面，重新整理與上一頁都應有效。
 - assets/style.css 統一管理視覺，assets/app.js 管理載入、路由、搜尋、統計與安全呈現。
 - assets/data.mjs 提供共用篩選及統計，供瀏覽器與 Node 回歸檢查使用，不得寫死特定球隊。
+- assets/experience.js 與 experience.css 管理精選主視覺、SVG球場、互動得分走勢、中文時間軸、球員亮點及系列賽進度。SVG使用DOM建立，無外部圖片依賴。
 - data/games.json 是前端唯一資料來源；sources/ 保存 MLB 官方原始 JSON 快照。
 - scripts/import_mlb.py 匯入官方資料；scripts/validate.mjs 執行資料檢查；tests/ 保存擴充示範紀錄。
 - docs/ 保存作業文件與驗證截圖，不放金鑰、登入資訊、個人敏感資料。
@@ -39,25 +40,35 @@ games.json 最外層包含 title、scope、games。每場必填：
 - pitchers：name、inningsPitched、hits、runs、earnedRuns、baseOnBalls、strikeOuts、numberOfPitches。
 - inningsPitched 保持棒球記法字串，例如 5.2 表示 5 局 2 出局，不能當 5.2 十進位局。
 - scoring：官方得分事件，含 inning、half、description、awayScore、homeScore。
+- 每項 scoring 另含官方 eventType、batter 與 rbi；中文時間軸只依這些欄位、相鄰比分差與半局產生，英文原文必須可展開核對。未知事件種類使用中性描述，不能猜測球路、守備細節或球員心情。
 - summary：只依核對資料產生的繁體中文摘要；reflection：個人心得，未提供為 null。
 
 ## 資料可信度
 - 優先使用 MLB 官方 Stats API 及官方賽事頁，保留來源快照；不得憑空填入真實比賽數字。
 - 未提供數據使用 null，畫面顯示「—」；零分、未出賽與缺資料不可混淆。
 - 不把示意資料混入正式統計，不編造觀賽心得、資料來源或完成驗證的紀錄。
-- 得分事件保留官方英文原文並標示；摘要不從總比分推測全壘打、逆轉或球員表現。
+- 得分事件保留官方英文原文並標示；中文重點不是逐字翻譯，使用官方事件種類及打點，並以相鄰比分差計算得分。不得把得分數與打者打點混淆，失誤可能造成兩者不同。
 - 每隊逐局得分加總等於總得分；非負整數欄位不得為負值；球員安打不得大於打數。
 - 不收錄尚未結束的比賽；延長局與主隊最後半局未打必須正確顯示。
 - 彙總只涵蓋已收錄場次，勝率分母為該隊實際收錄出賽場數。
 - 統計只計算目前所有篩選的交集；各隊場數分開計算，不能把總資料筆數當成每隊場數。
 - 單場標題讀取 seriesName，繼續閱讀只列同一 seriesId；圖表以主客隊呈現，不寫死對戰球隊。
 
+## 精選與視覺呈現規則
+- 首頁精選排序依再見得分100分、再見滿貫另加100分、超過9局每局10分，再以日期較新者優先；只稱「本站精選」，不得冒稱官方推薦。
+- 再見得分須為最後得分事件、9局後的下半局、主隊從未領先變為領先，且事件後比分等於終場。滿貫須官方 home_run、4打點且比分增加4分。
+- 逐局折線圖從賽前0分累加每局得分；null半局不可畫成已進行，讀值需標示未攻擊。圖表為得分走勢，不能宣稱勝率預測。
+- 局數滑桿必須能用鍵盤操作，更新可讀比分；SVG有替代文字，逐局記分板仍提供完整資料。
+- 球員亮點按兩隊打者最高打點、最多全壘打、投手最高三振計算；所有並列者都列出。零紀錄顯示無此項紀錄，不選出假冠軍，不稱官方MVP。
+- 系列賽進度只根據目前篩選後的已收錄場次產生勝場與G場次入口；部分收錄不得宣稱系列賽冠軍或完整戰績。
+- 球隊識別色只輔助辨識，必須同時顯示縮寫或隊名；不使用未授權商標或球員照片。動態效果遵守 prefers-reduced-motion。
+
 ## 新增比賽流程
 1. 先閱讀本文件、README 與現有資料；確認官方年度、系列賽、場次，不必為新增其他年度改寫頁面。
 2. 取得官方 gamePk，保存 sources/<gamePk>.json，依既有欄位轉換。
 3. 執行 python scripts/import_mlb.py --game-pk 編號 --season 年度 --series-id 分類id --series-name 名稱 --number 場次。命令只追加新比賽；重複 gamePk 或系列賽場次必須拒絕，不能覆蓋舊資料。
 4. 無需手寫卡片或統計；共用 renderer 應自動產生列表、內頁及統計。
-5. 執行 node scripts/validate.mjs 與 node tests/archive.test.mjs，再用 HTTP 預覽驗證新分類、搜尋、內頁與總覽。列表按日期由新到舊排序。
+5. 執行 node scripts/validate.mjs、node tests/archive.test.mjs 及 node tests/experience.test.mjs，再用 HTTP 預覽驗證新分類、精選、圖表、時間軸、內頁與總覽。列表按日期由新到舊排序。
 6. 在 tests/extension-log.md 記錄真實的前後場次、統計變化、修改檔案與檢查結果。
 
 ## 修改頁面流程

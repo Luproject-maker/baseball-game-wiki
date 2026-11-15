@@ -2,8 +2,8 @@
   "verifiedDate": "2026-11-15",
   "repository": "https://github.com/Luproject-maker/baseball-game-wiki",
   "website": "https://luproject-maker.github.io/baseball-game-wiki/",
-  "status": "live",
+  "status": "deploying_experience_revision",
   "deployedSourceCommit": "ad96938aa1a57b73c5314f8b12f82bf194a1d92a",
-  "verification": "公開網址HTTP讀取成功，首頁標題為棒球逐場賽事紀錄站，games.json確認六場、2023與2024兩個年度及兩個世界大賽分類。六場資料已通過1248項檢查與跨年度回歸檢查。",
+  "verification": "跨年度原版已發布。六項閱讀體驗改版已通過1434項官方資料檢查、跨年度與閱讀體驗回歸檢查，待確認最新版網站部署。",
   "handoff": "GitHub專案與網站由AI更新，課程平台作業由使用者自行繳交。"
 }

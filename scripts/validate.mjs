@@ -23,6 +23,8 @@ for(const g of db.games){
  for(const p of t.pitchers)ok(/^\d+\.[012]$/.test(p.inningsPitched),'baseball IP');
  }
  const last=g.scoring.at(-1);ok(last?last.awayScore===g.teams.away.runs&&last.homeScore===g.teams.home.runs:g.teams.away.runs===0&&g.teams.home.runs===0,'last scoring event');
+ const plays=raw.liveData.plays,events=plays.scoringPlays.map(i=>plays.allPlays[i]);ok(events.length===g.scoring.length,'official scoring event count');
+ for(let i=0;i<events.length;i++){const s=g.scoring[i],p=events[i];ok(s.eventType===p.result.eventType,'official event type');ok(s.batter===p.matchup.batter.fullName,'official batter');ok(s.rbi===(p.result.rbi??null),'official RBI');ok(s.description===p.result.description,'official description');ok(s.awayScore===p.result.awayScore&&s.homeScore===p.result.homeScore,'official event score')}
 }
 const stats=teamStats(db.games);
 console.log(JSON.stringify({passed:true,checks,games:db.games.length,stats},null,2));

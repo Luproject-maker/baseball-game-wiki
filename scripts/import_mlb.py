@@ -32,7 +32,7 @@ def convert_game(pk,season,series_id,series_name,n):
     scoring=[]
     plays=live['plays']['allPlays']
     for i in live['plays']['scoringPlays']:
-        p=plays[i]; scoring.append(dict(inning=p['about']['inning'],half=p['about']['halfInning'],description=p['result']['description'],awayScore=p['result']['awayScore'],homeScore=p['result']['homeScore']))
+        p=plays[i]; scoring.append(dict(inning=p['about']['inning'],half=p['about']['halfInning'],description=p['result']['description'],awayScore=p['result']['awayScore'],homeScore=p['result']['homeScore'],eventType=p['result']['eventType'],batter=p['matchup']['batter']['fullName'],rbi=p['result'].get('rbi')))
     if gd['status']['abstractGameState']!='Final': raise ValueError('Only completed games can be imported')
     if int(gd['game']['season'])!=season: raise ValueError('Season does not match official game')
     a,h=teams['away'],teams['home'];winner='home' if h['runs']>a['runs'] else 'away'
