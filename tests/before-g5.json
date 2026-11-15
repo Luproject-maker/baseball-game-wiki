@@ -1,0 +1,1786 @@
+{
+  "title": "棒球逐場賽事紀錄站",
+  "scope": "依年度與系列賽持續收錄 MLB 已結束賽事；日期採球場當地官方日期。",
+  "games": [
+    {
+      "id": "ws-2024-g1",
+      "gamePk": 775300,
+      "number": 1,
+      "date": "2024-10-25",
+      "venue": "Dodger Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "NYY",
+          "name": "紐約洋基",
+          "runs": 3,
+          "hits": 10,
+          "errors": 1,
+          "innings": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Gleyber Torres",
+              "position": "2B",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jasson Domínguez",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Oswaldo Cabrera",
+              "position": "2B",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Juan Soto",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Aaron Judge",
+              "position": "CF",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Giancarlo Stanton",
+              "position": "DH",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 1
+            },
+            {
+              "name": "Jazz Chisholm Jr.",
+              "position": "3B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Rizzo",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Volpe",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Austin Wells",
+              "position": "C",
+              "atBats": 5,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alex Verdugo",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Gerrit Cole",
+              "inningsPitched": "6.0",
+              "hits": 4,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 4,
+              "numberOfPitches": 88
+            },
+            {
+              "name": "Clay Holmes",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 5
+            },
+            {
+              "name": "Tommy Kahnle",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 8
+            },
+            {
+              "name": "Luke Weaver",
+              "inningsPitched": "1.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 19
+            },
+            {
+              "name": "Jake Cousins",
+              "inningsPitched": "0.1",
+              "hits": 1,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 14
+            },
+            {
+              "name": "Nestor Cortes",
+              "inningsPitched": "0.1",
+              "hits": 1,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 2
+            }
+          ]
+        },
+        "home": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 6,
+          "hits": 7,
+          "errors": 1,
+          "innings": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            4
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 4,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Gavin Lux",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chris Taylor",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Jack Flaherty",
+              "inningsPitched": "5.1",
+              "hits": 5,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 6,
+              "numberOfPitches": 90
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "0.2",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 15
+            },
+            {
+              "name": "Brusdar Graterol",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 18
+            },
+            {
+              "name": "Alex Vesia",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 16
+            },
+            {
+              "name": "Michael Kopech",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 10
+            },
+            {
+              "name": "Blake Treinen",
+              "inningsPitched": "1.1",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 22
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 5,
+          "half": "bottom",
+          "description": "Will Smith out on a sacrifice fly to right fielder Juan Soto. Enrique Hernández scores.",
+          "awayScore": 0,
+          "homeScore": 1
+        },
+        {
+          "inning": 6,
+          "half": "top",
+          "description": "Giancarlo Stanton homers (6) on a fly ball to left field. Juan Soto scores.",
+          "awayScore": 2,
+          "homeScore": 1
+        },
+        {
+          "inning": 8,
+          "half": "bottom",
+          "description": "Mookie Betts out on a sacrifice fly to center fielder Aaron Judge. Shohei Ohtani scores.",
+          "awayScore": 2,
+          "homeScore": 2
+        },
+        {
+          "inning": 10,
+          "half": "top",
+          "description": "Anthony Volpe grounds into a force out, shortstop Tommy Edman to second baseman Gavin Lux. Jazz Chisholm Jr. scores. Anthony Rizzo out at 2nd. Anthony Volpe to 1st.",
+          "awayScore": 3,
+          "homeScore": 2
+        },
+        {
+          "inning": 10,
+          "half": "bottom",
+          "description": "Freddie Freeman hits a grand slam (1) to right field. Chris Taylor scores. Tommy Edman scores. Mookie Betts scores.",
+          "awayScore": 3,
+          "homeScore": 6
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/775300/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/775300/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 6 比 3獲勝；全場共進行 10 局。",
+      "reflection": null,
+      "season": 2024,
+      "seriesId": "mlb-2024-world-series",
+      "seriesName": "2024 世界大賽"
+    },
+    {
+      "id": "ws-2024-g2",
+      "gamePk": 775294,
+      "number": 2,
+      "date": "2024-10-26",
+      "venue": "Dodger Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "NYY",
+          "name": "紐約洋基",
+          "runs": 2,
+          "hits": 4,
+          "errors": 0,
+          "innings": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "batters": [
+            {
+              "name": "Gleyber Torres",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Juan Soto",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 2,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Aaron Judge",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Giancarlo Stanton",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jazz Chisholm Jr.",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Rizzo",
+              "position": "1B",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Oswaldo Cabrera",
+              "position": "PR",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Volpe",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Austin Wells",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jose Trevino",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alex Verdugo",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Carlos Rodón",
+              "inningsPitched": "3.1",
+              "hits": 6,
+              "runs": 4,
+              "earnedRuns": 4,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 63
+            },
+            {
+              "name": "Jake Cousins",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 21
+            },
+            {
+              "name": "Tim Hill",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 14
+            },
+            {
+              "name": "Clay Holmes",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 23
+            },
+            {
+              "name": "Mark Leiter Jr.",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 9
+            }
+          ]
+        },
+        "home": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 4,
+          "hits": 8,
+          "errors": 0,
+          "innings": [
+            0,
+            1,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            null
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Chris Taylor",
+              "position": "LF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Miguel Rojas",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Yoshinobu Yamamoto",
+              "inningsPitched": "6.1",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 2,
+              "strikeOuts": 4,
+              "numberOfPitches": 86
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 16
+            },
+            {
+              "name": "Michael Kopech",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 14
+            },
+            {
+              "name": "Blake Treinen",
+              "inningsPitched": "0.2",
+              "hits": 3,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 33
+            },
+            {
+              "name": "Alex Vesia",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 1
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 2,
+          "half": "bottom",
+          "description": "Tommy Edman homers (2) on a fly ball to left field.",
+          "awayScore": 0,
+          "homeScore": 1
+        },
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Juan Soto homers (4) on a fly ball to right field.",
+          "awayScore": 1,
+          "homeScore": 1
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Teoscar Hernández homers (3) on a fly ball to right center field. Mookie Betts scores.",
+          "awayScore": 1,
+          "homeScore": 3
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Freddie Freeman homers (2) on a fly ball to right center field.",
+          "awayScore": 1,
+          "homeScore": 4
+        },
+        {
+          "inning": 9,
+          "half": "top",
+          "description": "Giancarlo Stanton singles on a ground ball to left fielder Chris Taylor. Juan Soto scores.",
+          "awayScore": 2,
+          "homeScore": 4
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/775294/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/775294/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 4 比 2獲勝；全場共進行 9 局。",
+      "reflection": null,
+      "season": 2024,
+      "seriesId": "mlb-2024-world-series",
+      "seriesName": "2024 世界大賽"
+    },
+    {
+      "id": "ws-2024-g3",
+      "gamePk": 775298,
+      "number": 3,
+      "date": "2024-10-28",
+      "venue": "Yankee Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 4,
+          "hits": 5,
+          "errors": 0,
+          "innings": [
+            2,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chris Taylor",
+              "position": "LF",
+              "atBats": 0,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Gavin Lux",
+              "position": "2B",
+              "atBats": 2,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Walker Buehler",
+              "inningsPitched": "5.0",
+              "hits": 2,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 5,
+              "numberOfPitches": 76
+            },
+            {
+              "name": "Brusdar Graterol",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 18
+            },
+            {
+              "name": "Alex Vesia",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 4
+            },
+            {
+              "name": "Daniel Hudson",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 22
+            },
+            {
+              "name": "Anthony Banda",
+              "inningsPitched": "0.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 10
+            },
+            {
+              "name": "Ryan Brasier",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 22
+            },
+            {
+              "name": "Michael Kopech",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 2,
+              "earnedRuns": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 24
+            }
+          ]
+        },
+        "home": {
+          "code": "NYY",
+          "name": "紐約洋基",
+          "runs": 2,
+          "hits": 5,
+          "errors": 1,
+          "innings": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2
+          ],
+          "batters": [
+            {
+              "name": "Gleyber Torres",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Juan Soto",
+              "position": "RF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Aaron Judge",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Giancarlo Stanton",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 2,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jazz Chisholm Jr.",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Volpe",
+              "position": "SS",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Rizzo",
+              "position": "1B",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jose Trevino",
+              "position": "C",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Austin Wells",
+              "position": "C",
+              "atBats": 2,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Alex Verdugo",
+              "position": "LF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Clarke Schmidt",
+              "inningsPitched": "2.2",
+              "hits": 2,
+              "runs": 3,
+              "earnedRuns": 3,
+              "baseOnBalls": 4,
+              "strikeOuts": 3,
+              "numberOfPitches": 68
+            },
+            {
+              "name": "Mark Leiter Jr.",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 17
+            },
+            {
+              "name": "Nestor Cortes",
+              "inningsPitched": "1.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 15
+            },
+            {
+              "name": "Jake Cousins",
+              "inningsPitched": "1.0",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 17
+            },
+            {
+              "name": "Tim Hill",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 17
+            },
+            {
+              "name": "Clay Holmes",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 12
+            },
+            {
+              "name": "Tommy Kahnle",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "numberOfPitches": 11
+            },
+            {
+              "name": "Luke Weaver",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 6
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Freddie Freeman homers (3) on a fly ball to right field. Shohei Ohtani scores.",
+          "awayScore": 2,
+          "homeScore": 0
+        },
+        {
+          "inning": 3,
+          "half": "top",
+          "description": "Mookie Betts singles on a soft fly ball to right fielder Juan Soto. Tommy Edman scores.",
+          "awayScore": 3,
+          "homeScore": 0
+        },
+        {
+          "inning": 6,
+          "half": "top",
+          "description": "Enrique Hernández singles on a ground ball to center fielder Aaron Judge. Gavin Lux scores.",
+          "awayScore": 4,
+          "homeScore": 0
+        },
+        {
+          "inning": 9,
+          "half": "bottom",
+          "description": "Alex Verdugo homers (1) on a fly ball to right center field. Anthony Rizzo scores.",
+          "awayScore": 4,
+          "homeScore": 2
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/775298/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/775298/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "洛杉磯道奇以 4 比 2獲勝；全場共進行 9 局。",
+      "reflection": null,
+      "season": 2024,
+      "seriesId": "mlb-2024-world-series",
+      "seriesName": "2024 世界大賽"
+    },
+    {
+      "id": "ws-2024-g4",
+      "gamePk": 775297,
+      "number": 4,
+      "date": "2024-10-29",
+      "venue": "Yankee Stadium",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "code": "LAD",
+          "name": "洛杉磯道奇",
+          "runs": 4,
+          "hits": 6,
+          "errors": 1,
+          "innings": [
+            2,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          "batters": [
+            {
+              "name": "Shohei Ohtani",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Mookie Betts",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Freddie Freeman",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 3,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Teoscar Hernández",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Max Muncy",
+              "position": "3B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 3,
+              "homeRuns": 0
+            },
+            {
+              "name": "Enrique Hernández",
+              "position": "CF",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Gavin Lux",
+              "position": "2B",
+              "atBats": 3,
+              "runs": 0,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Chris Taylor",
+              "position": "PH",
+              "atBats": 1,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Will Smith",
+              "position": "C",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 1
+            },
+            {
+              "name": "Tommy Edman",
+              "position": "SS",
+              "atBats": 1,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 2,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Ben Casparius",
+              "inningsPitched": "2.0",
+              "hits": 1,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 3,
+              "strikeOuts": 1,
+              "numberOfPitches": 43
+            },
+            {
+              "name": "Daniel Hudson",
+              "inningsPitched": "1.0",
+              "hits": 2,
+              "runs": 4,
+              "earnedRuns": 4,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "numberOfPitches": 20
+            },
+            {
+              "name": "Landon Knack",
+              "inningsPitched": "4.0",
+              "hits": 2,
+              "runs": 1,
+              "earnedRuns": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 56
+            },
+            {
+              "name": "Brent Honeywell",
+              "inningsPitched": "1.0",
+              "hits": 4,
+              "runs": 5,
+              "earnedRuns": 5,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "numberOfPitches": 50
+            }
+          ]
+        },
+        "home": {
+          "code": "NYY",
+          "name": "紐約洋基",
+          "runs": 11,
+          "hits": 9,
+          "errors": 0,
+          "innings": [
+            0,
+            1,
+            4,
+            0,
+            0,
+            1,
+            0,
+            5,
+            null
+          ],
+          "batters": [
+            {
+              "name": "Gleyber Torres",
+              "position": "2B",
+              "atBats": 5,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 3,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Juan Soto",
+              "position": "RF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "homeRuns": 0
+            },
+            {
+              "name": "Aaron Judge",
+              "position": "CF",
+              "atBats": 3,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Jazz Chisholm Jr.",
+              "position": "3B",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            },
+            {
+              "name": "Giancarlo Stanton",
+              "position": "DH",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Rizzo",
+              "position": "1B",
+              "atBats": 4,
+              "runs": 0,
+              "hits": 0,
+              "rbi": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 1,
+              "homeRuns": 0
+            },
+            {
+              "name": "Anthony Volpe",
+              "position": "SS",
+              "atBats": 3,
+              "runs": 3,
+              "hits": 2,
+              "rbi": 4,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Austin Wells",
+              "position": "C",
+              "atBats": 3,
+              "runs": 2,
+              "hits": 2,
+              "rbi": 1,
+              "baseOnBalls": 1,
+              "strikeOuts": 0,
+              "homeRuns": 1
+            },
+            {
+              "name": "Alex Verdugo",
+              "position": "LF",
+              "atBats": 4,
+              "runs": 1,
+              "hits": 1,
+              "rbi": 2,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "homeRuns": 0
+            }
+          ],
+          "pitchers": [
+            {
+              "name": "Luis Gil",
+              "inningsPitched": "4.0",
+              "hits": 5,
+              "runs": 4,
+              "earnedRuns": 4,
+              "baseOnBalls": 2,
+              "strikeOuts": 1,
+              "numberOfPitches": 67
+            },
+            {
+              "name": "Tim Hill",
+              "inningsPitched": "0.2",
+              "hits": 1,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 5
+            },
+            {
+              "name": "Clay Holmes",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 2,
+              "numberOfPitches": 13
+            },
+            {
+              "name": "Mark Leiter Jr.",
+              "inningsPitched": "0.2",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 1,
+              "strikeOuts": 2,
+              "numberOfPitches": 18
+            },
+            {
+              "name": "Luke Weaver",
+              "inningsPitched": "1.1",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 3,
+              "numberOfPitches": 21
+            },
+            {
+              "name": "Tim Mayza",
+              "inningsPitched": "1.0",
+              "hits": 0,
+              "runs": 0,
+              "earnedRuns": 0,
+              "baseOnBalls": 0,
+              "strikeOuts": 0,
+              "numberOfPitches": 15
+            }
+          ]
+        }
+      },
+      "scoring": [
+        {
+          "inning": 1,
+          "half": "top",
+          "description": "Freddie Freeman homers (4) on a line drive to right field. Mookie Betts scores.",
+          "awayScore": 2,
+          "homeScore": 0
+        },
+        {
+          "inning": 2,
+          "half": "bottom",
+          "description": "Alex Verdugo grounds out to first baseman Freddie Freeman. Anthony Volpe scores. Austin Wells to 3rd.",
+          "awayScore": 2,
+          "homeScore": 1
+        },
+        {
+          "inning": 3,
+          "half": "bottom",
+          "description": "Anthony Volpe hits a grand slam (1) to left center field. Aaron Judge scores. Jazz Chisholm Jr. scores. Giancarlo Stanton scores.",
+          "awayScore": 2,
+          "homeScore": 5
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Will Smith homers (3) on a fly ball to right center field.",
+          "awayScore": 3,
+          "homeScore": 5
+        },
+        {
+          "inning": 5,
+          "half": "top",
+          "description": "Dodgers challenged (play at 1st), call on the field was overturned: Freddie Freeman grounds into a force out, second baseman Gleyber Torres to shortstop Anthony Volpe. Tommy Edman scores. Mookie Betts out at 2nd. Freddie Freeman to 1st.",
+          "awayScore": 4,
+          "homeScore": 5
+        },
+        {
+          "inning": 6,
+          "half": "bottom",
+          "description": "Austin Wells homers (2) on a fly ball to right field.",
+          "awayScore": 4,
+          "homeScore": 6
+        },
+        {
+          "inning": 8,
+          "half": "bottom",
+          "description": "Alex Verdugo reaches on a fielder's choice, fielded by second baseman Gavin Lux. Anthony Volpe scores. Austin Wells to 3rd.",
+          "awayScore": 4,
+          "homeScore": 7
+        },
+        {
+          "inning": 8,
+          "half": "bottom",
+          "description": "Gleyber Torres homers (2) on a fly ball to right center field. Austin Wells scores. Alex Verdugo scores.",
+          "awayScore": 4,
+          "homeScore": 10
+        },
+        {
+          "inning": 8,
+          "half": "bottom",
+          "description": "Aaron Judge singles on a sharp line drive to left fielder Teoscar Hernández. Juan Soto scores.",
+          "awayScore": 4,
+          "homeScore": 11
+        }
+      ],
+      "source": "https://statsapi.mlb.com/api/v1.1/game/775297/feed/live",
+      "sourcePage": "https://www.mlb.com/gameday/775297/final/box",
+      "retrieved": "2026-11-15",
+      "summary": "紐約洋基以 11 比 4獲勝；全場共進行 9 局。",
+      "reflection": null,
+      "season": 2024,
+      "seriesId": "mlb-2024-world-series",
+      "seriesName": "2024 世界大賽"
+    }
+  ]
+}

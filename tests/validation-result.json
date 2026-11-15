@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "checks": 1248,
+  "games": 6,
+  "stats": [
+    {
+      "code": "LAD",
+      "name": "洛杉磯道奇",
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0,
+      "runs": 25,
+      "hits": 33,
+      "errors": 2,
+      "winRate": "80.0%"
+    },
+    {
+      "code": "NYY",
+      "name": "紐約洋基",
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0,
+      "runs": 24,
+      "hits": 36,
+      "errors": 5,
+      "winRate": "20.0%"
+    },
+    {
+      "code": "TEX",
+      "name": "德州遊騎兵",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "runs": 5,
+      "hits": 9,
+      "errors": 0,
+      "winRate": "100.0%"
+    },
+    {
+      "code": "AZ",
+      "name": "亞利桑那響尾蛇",
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "runs": 0,
+      "hits": 5,
+      "errors": 1,
+      "winRate": "0.0%"
+    }
+  ]
+}

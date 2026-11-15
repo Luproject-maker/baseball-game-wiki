@@ -1,0 +1,24 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {selectGames,teamStats,resultOf} from '../assets/data.mjs';
+const db=JSON.parse(fs.readFileSync(new URL('../data/games.json',import.meta.url),'utf8'));
+const old=selectGames(db.games,{year:'2024',series:'mlb-2024-world-series'});
+assert.equal(old.length,5);
+assert.deepEqual(teamStats(old).map(x=>[x.code,x.games,x.wins,x.losses,x.runs]),[['LAD',5,4,1,25],['NYY',5,1,4,24]]);
+const added=selectGames(db.games,{year:'2023',series:'mlb-2023-world-series'});
+assert.equal(added.length,1);assert.equal(added[0].gamePk,748534);
+assert.equal(resultOf(added[0],'TEX'),'win');assert.equal(resultOf(added[0],'LAD'),null);
+assert.equal(teamStats(added).find(t=>t.code==='TEX').runs,5);
+assert.equal(selectGames(db.games,{team:'LAD',result:'loss'}).length,1);
+assert.equal(selectGames(db.games,{year:'2023',team:'LAD'}).length,0);
+assert.equal(selectGames(db.games,{series:'mlb-2024-world-series',query:'2024-10-29'}).length,1);
+assert.equal(selectGames(db.games,{query:'Nathan Eovaldi'}).length,1);
+assert.deepEqual(teamStats([]),[]);
+assert.equal(selectGames(db.games,{query:'not-a-real-player-xyz'}).length,0);
+// Neither club below appears in production: verify denominator and tie handling independently.
+const fake=(date,a,b)=>({date,gamePk:1,season:2022,seriesId:'test',seriesName:'TEST ONLY',venue:'',teams:{away:{code:'AAA',name:'A',runs:a,hits:0,errors:0,batters:[],pitchers:[]},home:{code:'BBB',name:'B',runs:b,hits:0,errors:0,batters:[],pitchers:[]}}});
+assert.equal(teamStats([fake('2022-01-01',2,2)]).find(t=>t.code==='AAA').ties,1);
+assert.equal(selectGames([fake('2022-01-01',2,2)],{team:'AAA',result:'tie'}).length,1);
+assert.equal(teamStats(db.games).find(t=>t.code==='TEX').games,1);
+assert.equal(teamStats(db.games).find(t=>t.code==='LAD').games,5);
+console.log('Archive regression checks passed: multi-year, different teams, scope, search, empty and tie cases.');
